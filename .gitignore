@@ -1,0 +1,4 @@
+*.pyc
+env
+wordclock_config.py
+esp8266/

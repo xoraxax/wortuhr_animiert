@@ -1,0 +1,4 @@
+open ttyUSB0
+put wordclock.py main.py
+put wordclock_config.py wordclock_config.py
+
